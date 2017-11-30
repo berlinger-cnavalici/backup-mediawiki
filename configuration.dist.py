@@ -29,6 +29,6 @@ B2_BUCKET_NAME = 'wikiBackups'
 # SendGrid (for notifications)
 SG_API_KEY = 'SG.XXXXX.XXXXX'
 SG_TO_NAME = 'Development Team'
-SG_TO_EMAIL = 'development@antaris-solutions.net'
-SG_FROM_EMAIL = "noreply@antaris-solutions.net"
+SG_TO_EMAIL = 'development@example.com'
+SG_FROM_EMAIL = "noreply@example.com"
 SG_FROM_NAME = "Backups Mediawiki"
